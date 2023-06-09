@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate web developer, and I love working
 - 💼 Current Position: Full Stack Web Developer (Author at [Envato](https://codecanyon.net/user/geniusdevs) & Working at Mediusware LTD)
 - 🌱 I’m currently learning: Docker, Kubernetes, Linux Server
 - 💬 Ask me about: Javascript, Typescript, Node.js, Express.js, Next.js, Nuxt.js
-- 💡 Interests: Problem solving, Open-source, Playing Games, Traveling
+- 💡 Interests: Problem Solving, Open-source, Playing Games, Traveling
 
 ## Current Projects
 
