@@ -9,19 +9,13 @@ Welcome to my GitHub profile! I'm a passionate web developer, and I love working
 - 💬 Ask me about: Javascript, Typescript, Node.js, Express.js, Next.js, Nuxt.js
 - 💡 Interests: Problem Solving, Open-source, Playing Games, Traveling
 
-## Current Projects
+## Currently Working
 
 ### [PMSGo](https://github.com/MamunVerse/PMSGo)
 
 SaaS Project Management System. Ultimate solution for project management. Whether you're a busy organization handling multiple projects or an individual seeking task optimization and many more.
 
 - Technologies Used: Typescript, Node.js, Express.js, MongoDB, Next.js, and more.
-
-### [VueBusiness](https://github.com/MamunVerse/VueBusiness)
-
-VueBusiness gives you infinite possibilities to make your site. If you have planned to buy a multipurpose business CMS, you can choose VueBusiness as the most suitable platform.
-
-- Technologies Used: PHP, Laravel, MySQL, Vue.js, and more.
 
 ## All Other Projects
 
