@@ -20,9 +20,3 @@ SaaS Project Management System. Ultimate solution for project management. Whethe
 ## All Other Projects
 
 You can find all my other projects [here](https://mamunverse.com/product).
-
-
-
-Feel free to reach out to me if you have any questions, collaboration opportunities, or just want to connect. I'm always open to new ideas and discussions.
-
-Thanks for visiting my profile! Have a great day! 😄
