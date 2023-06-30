@@ -21,11 +21,7 @@ SaaS Project Management System. Ultimate solution for project management. Whethe
 
 You can find all my other projects [here](https://mamunverse.com/product).
 
-## Contact Me
 
-- 📧 Email: mamunurrashid6424@gmail.com
-- 🔗 LinkedIn: [linkedin.com/in/mamunverse](https://www.linkedin.com/in/mamunverse/)
-- 🌐 Website: [mamunverse.com](https://mamunverse.com/)
 
 Feel free to reach out to me if you have any questions, collaboration opportunities, or just want to connect. I'm always open to new ideas and discussions.
 
