@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a passionate web developer, and I love working
 
 ### [PMSGo](https://github.com/MamunVerse/PMSGo)
 
-SaaS Project Management System. Ultimate solution for project management. Whether you're a busy organization handling multiple projects or an individual seeking task optimization, PSMGo SaaS is here for you. With its intuitive interface and robust functionality, project management becomes a breeze.
+SaaS Project Management System. Ultimate solution for project management. Whether you're a busy organization handling multiple projects or an individual seeking task optimization, PSMGo SaaS is here for you.
 
 - Technologies Used: Typescript, Node.js, Express.js, MongoDB, Next.js, and more.
 
