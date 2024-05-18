@@ -5,5 +5,5 @@ Welcome to my GitHub profile! I'm a passionate web developer, and I love working
 ## About Me
 - 🌍 Location: Dhaka, Bangladesh
 - 💼 Current Position: Full Stack Web Developer (Author at [Envato](https://codecanyon.net/user/geniusdevs) & Working at Mediusware LTD)
-- 💬 Ask me about Javascript, Typescript, Node.js, Express.js, Next.js, Nuxt.js
+- 💬 Ask me about Javascript, Typescript, React.js, Next.js, 
 - 💡 Interests: Open-Source, Playing Games, Traveling
